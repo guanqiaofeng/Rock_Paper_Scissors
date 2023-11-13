@@ -1,6 +1,6 @@
-# Rock_Paper_Scissors
+## Rock_Paper_Scissors
 
-## Adapted form the challenge I completed in freeCodeCamp "Machine Learning with Python"
+### Adapted form the challenge I completed "Machine Learning with Python" from freeCodeCamp 
 
 For this challenge, you will create a program to play Rock, Paper, Scissors. A program that picks at random will usually win 50% of the time. To pass this challenge your program must play matches against four different bots, winning at least 60% of the games in each match.
 
