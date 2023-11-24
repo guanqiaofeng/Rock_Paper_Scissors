@@ -1,6 +1,6 @@
 ## Rock_Paper_Scissors
 
-### Adapted form the challenge I completed in "Machine Learning with Python" from freeCodeCamp 
+### Adapted form the challenge I completed in "Machine Learning with Python" from freeCodeCamp Jan 2022
 
 ### Assignment
 
