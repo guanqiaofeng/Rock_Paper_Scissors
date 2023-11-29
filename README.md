@@ -1,6 +1,7 @@
 ## Rock_Paper_Scissors
 
 ### Adapted form the challenge I completed in "Machine Learning with Python" from freeCodeCamp Jan 2022
+#### Credential URL: https://freecodecamp.org/certification/fcc73aebaff-3de8-450d-a078-285d9b82e264/machine-learning-with-python-v7
 
 ### Assignment
 
